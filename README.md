@@ -95,7 +95,7 @@ GanMA-Ai-main/
 
 ---
 
-## 📸 CHAT Interface
+## CHAT Interface
 
 <p align="center">
   <img src="chat-window.png" alt="Extension Icon"/>
@@ -103,7 +103,7 @@ GanMA-Ai-main/
 
 ---
 
-## 📸 Interface in the Browser with Enterprise DB Read Permission with which a perfect E-mail is generated to send it to the user
+## Interface in the Browser with Enterprise DB Read Permission with which a perfect E-mail is generated to send it to the user
 
 <p align="center">
   <img src="UI.png" alt="Extension Icon"/>
@@ -111,7 +111,7 @@ GanMA-Ai-main/
 
 ---
 
-## 📸 Call Bot Used By Agent Generate Customer Data in .json format
+## Call Bot Used By Agent Generate Customer Data in .json format
 
 <p align="center">
   <img src="call-bot.png" alt="Extension Icon"/>
