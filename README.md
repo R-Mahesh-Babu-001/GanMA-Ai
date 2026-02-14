@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 Overview
+## Overview
 
 GanMA-Ai is a Chrome extension that injects a powerful AI-driven sidebar into every webpage, enabling features like Market Analysis, Feedback Analysis, Text-to-Image generation, and Ethical AI insights—all accessible with a single click.
 
@@ -23,7 +23,7 @@ GanMA-Ai is a Chrome extension that injects a powerful AI-driven sidebar into ev
 
 ---
 
-## 🛠️ Features
+## Features
 
 - **Market Analysis:** Get real-time market insights powered by AI.  
 - **Feedback Analysis:** Instantly analyze user feedback and sentiment.  
