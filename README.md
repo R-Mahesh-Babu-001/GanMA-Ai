@@ -33,7 +33,7 @@ GanMA-Ai is a Chrome extension that injects a powerful AI-driven sidebar into ev
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```plaintext
 GanMA-Ai-main/
@@ -54,7 +54,7 @@ GanMA-Ai-main/
 
 ---
 
-## 🧑‍💻 Step-by-Step Setup & Execution
+## Step-by-Step Setup & Execution
 
 1. **Clone the Repository**
 
@@ -119,7 +119,6 @@ GanMA-Ai-main/
 
 ---
 
-## 📄 License
 
 This project is provided for educational and hackathon purposes.
 
